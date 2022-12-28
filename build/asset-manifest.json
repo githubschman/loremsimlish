@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6b3d96d.css",
-    "main.js": "/static/js/main.839525f4.js",
-    "static/js/787.f77ce965.chunk.js": "/static/js/787.f77ce965.chunk.js",
-    "static/media/simlish.otf": "/static/media/simlish.cc0c12ded5f6a73ba8ff.otf",
-    "index.html": "/index.html",
-    "main.d6b3d96d.css.map": "/static/css/main.d6b3d96d.css.map",
-    "main.839525f4.js.map": "/static/js/main.839525f4.js.map",
-    "787.f77ce965.chunk.js.map": "/static/js/787.f77ce965.chunk.js.map"
+    "main.css": "/loremsimlish/static/css/main.64e19b96.css",
+    "main.js": "/loremsimlish/static/js/main.947c26ae.js",
+    "static/js/787.f77ce965.chunk.js": "/loremsimlish/static/js/787.f77ce965.chunk.js",
+    "static/media/simlish.otf": "/loremsimlish/static/media/simlish.cc0c12ded5f6a73ba8ff.otf",
+    "index.html": "/loremsimlish/index.html",
+    "main.64e19b96.css.map": "/loremsimlish/static/css/main.64e19b96.css.map",
+    "main.947c26ae.js.map": "/loremsimlish/static/js/main.947c26ae.js.map",
+    "787.f77ce965.chunk.js.map": "/loremsimlish/static/js/787.f77ce965.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d6b3d96d.css",
-    "static/js/main.839525f4.js"
+    "static/css/main.64e19b96.css",
+    "static/js/main.947c26ae.js"
   ]
 }
