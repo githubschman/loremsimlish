@@ -1,5 +1,5 @@
 import {useState, useEffect} from 'react'
-import {ConfigProvider, Button, InputNumber, Space, Link, Divider} from 'antd'
+import {ConfigProvider, Button, InputNumber, Space} from 'antd'
 import { loremIpsum } from 'lorem-ipsum';
 import words from './words'
 import './App.css';
@@ -42,6 +42,7 @@ function App() {
       units: "paragraphs",      // paragraph(s), "sentence(s)", or "word(s)"
       words,      // Array of words to draw from
     }))
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
   return (
